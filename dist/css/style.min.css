@@ -1,1 +1,1 @@
-body{color:#fff;font-size:16px;background:#000;display:flex;justify-content:space-between}span{font-size:24px}section{display:flex;background:url(../img/wolf.jpg) 0 0 no-repeat;height:100vh;font-size:20px}@media (max-width:767px){span{font-size:14px}section{font-size:16px}}.webp section{background:url(../img/wolf.webp) 0 0 no-repeat}
+h1{font-size:calc(20px + 10 * ((100vw - 320px)/ 980))}

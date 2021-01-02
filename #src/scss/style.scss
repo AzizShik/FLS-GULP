@@ -1,6 +1,9 @@
+@import 'libs/normalize.scss';
 @import 'fonts';
 @import 'mixin';
-
-h1{
-  @include adaptiv-value("font-size", 30, 20, 0);
-}
+@import 'btn';
+@import 'title';
+@import 'libs/animate.min.scss';
+@import 'libs/slick.scss';
+@import 'modal';
+@import 'global';
